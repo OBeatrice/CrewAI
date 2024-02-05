@@ -1,0 +1,8 @@
+openai==0.30.0
+requests==2.26.0
+tensorflow==2.7.0
+tensorflow-probability==0.23.0
+pyautogen==0.2.10
+cohere
+typing-extensions==4.9.0
+autogen
